@@ -7,3 +7,5 @@ this is a test change
 
 Brit Hemming
 Canada
+
+Shu Fu Chen
